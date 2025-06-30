@@ -10,7 +10,7 @@ on:
     branches:
       - develop
 jobs:
-  Linting-job :
+  Linting-job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository on runner
